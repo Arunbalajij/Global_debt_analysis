@@ -1,0 +1,121 @@
+country_code,short_name,long_name,region,income_group,lending_category,currency_unit,national_accounts_base_year,external_debt_reporting_status,latest_population_census,latest_trade_data,latest_water_withdrawal_data,is_vital_registration_complete,has_special_notes
+AFG,Afghanistan,Islamic State of Afghanistan,Middle East & North Africa,Low income,IDA,Afghan afghani,2016,Estimate,1979.0,2018.0,2000.0,0,1
+ALB,Albania,Republic of Albania,Europe & Central Asia,Upper middle income,IBRD,Albanian lek,2012,Actual,2023.0,2018.0,2006.0,1,0
+DZA,Algeria,People's Democratic Republic of Algeria,Middle East & North Africa,Upper middle income,IBRD,Algerian dinar,2012,Actual,2022.0,2017.0,2012.0,0,0
+AGO,Angola,People's Republic of Angola,Sub-Saharan Africa,Lower middle income,IBRD,Angolan kwanza,2002,Actual,2014.0,2018.0,2005.0,0,1
+ARG,Argentina,Argentine Republic,Latin America & Caribbean,Upper middle income,IBRD,Argentine peso,2004,Actual,2022.0,2018.0,2011.0,1,1
+ARM,Armenia,Republic of Armenia,Europe & Central Asia,Upper middle income,IBRD,Armenian dram,2012,Actual,2011.0,2018.0,2012.0,1,0
+AZE,Azerbaijan,Republic of Azerbaijan,Europe & Central Asia,Upper middle income,IBRD,New Azeri manat,2012,Actual,2019.0,2018.0,2012.0,1,0
+BGD,Bangladesh,People's Republic of Bangladesh,South Asia,Lower middle income,IDA,Bangladeshi taka,2016,Actual,2022.0,2015.0,2008.0,0,1
+BLR,Belarus,Republic of Belarus,Europe & Central Asia,Upper middle income,IBRD,Belarusian rubel,2012,Estimate,2019.0,2018.0,2013.0,1,1
+BLZ,Belize,Belize,Latin America & Caribbean,Upper middle income,Blend,Belize dollar,2014,Actual,2022.0,2018.0,2000.0,0,0
+BEN,Benin,Republic of Benin,Sub-Saharan Africa,Lower middle income,IDA,West African CFA franc,2015,Actual,2023.0,2018.0,2001.0,0,0
+BTN,Bhutan,Kingdom of Bhutan,South Asia,Lower middle income,IDA,Bhutanese ngultrum,2017,Actual,2017.0,2012.0,2008.0,0,0
+BOL,"Bolivia, Plurinational State of",Plurinational State of Bolivia,Latin America & Caribbean,Lower middle income,IBRD,Bolivian Boliviano,1990,Actual,2012.0,2018.0,2009.0,0,0
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD,Bosnia and Herzegovina convertible mark,2012,Actual,2013.0,2018.0,2013.0,1,0
+BWA,Botswana,Republic of Botswana,Sub-Saharan Africa,Upper middle income,IBRD,Botswana pula,2016,Actual,2022.0,2018.0,2000.0,0,0
+BRA,Brazil,Federative Republic of Brazil,Latin America & Caribbean,Upper middle income,IBRD,Brazilian real,2012,Actual,2022.0,2018.0,2010.0,1,0
+BFA,Burkina Faso,Burkina Faso,Sub-Saharan Africa,Low income,IDA,West African CFA franc,2012,Actual,2019.0,2018.0,2005.0,0,0
+BDI,Burundi,Republic of Burundi,Sub-Saharan Africa,Low income,IDA,Burundi franc,2005,Actual,2008.0,2018.0,2000.0,0,1
+CPV,Cabo Verde,Republic of Cabo Verde,Sub-Saharan Africa,Upper middle income,Blend,Cabo Verde escudo,2015,Actual,2021.0,2018.0,2001.0,1,0
+KHM,Cambodia,Kingdom of Cambodia,East Asia & Pacific,Lower middle income,IDA,Cambodian riel,2014,Actual,2019.0,2016.0,2006.0,0,1
+CMR,Cameroon,Republic of Cameroon,Sub-Saharan Africa,Lower middle income,Blend,Central African CFA franc,2012,Actual,2005.0,2017.0,2000.0,0,0
+CAF,Central African Republic,Central African Republic,Sub-Saharan Africa,Low income,IDA,Central African CFA franc,2005,Actual,2003.0,2017.0,2005.0,0,0
+TCD,Chad,Republic of Chad,Sub-Saharan Africa,Low income,IDA,Central African CFA franc,2012,Preliminary,2009.0,1995.0,2005.0,0,0
+CHN,China,People's Republic of China,East Asia & Pacific,Upper middle income,IBRD,Chinese yuan,2020,Preliminary,2020.0,2018.0,2013.0,0,1
+COL,Colombia,Republic of Colombia,Latin America & Caribbean,Upper middle income,IBRD,Colombian peso,2012,Actual,2018.0,2018.0,2008.0,0,0
+COM,Comoros,Union of the Comoros,Sub-Saharan Africa,Lower middle income,IDA,Comorian franc,2007,Actual,2017.0,2013.0,1999.0,0,0
+COD,"Congo, Democratic Republic of",Democratic Republic of the Congo,Sub-Saharan Africa,Low income,IDA,Congolese franc,2005,Actual,,,2005.0,0,1
+COG,"Congo, Republic of",Republic of Congo,Sub-Saharan Africa,Lower middle income,Blend,Central African CFA franc,2005,Actual,2007.0,2017.0,2002.0,0,0
+CIV,Côte d'Ivoire,Republic of Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,Blend,West African CFA franc,2012,Actual,2021.0,2018.0,2005.0,0,0
+DJI,Djibouti,Republic of Djibouti,Middle East & North Africa,Lower middle income,IDA,Djibouti franc,2013,Actual,2009.0,2009.0,2000.0,0,0
+DMA,Dominica,Commonwealth of Dominica,Latin America & Caribbean,Upper middle income,Blend,East Caribbean dollar,2018,Actual,2022.0,2012.0,2010.0,1,0
+DOM,Dominican Republic,Dominican Republic,Latin America & Caribbean,Upper middle income,IBRD,Dominican peso,2012,Actual,2022.0,2017.0,2010.0,0,0
+ECU,Ecuador,Republic of Ecuador,Latin America & Caribbean,Upper middle income,IBRD,U.S. dollar,2012,Preliminary,2022.0,2018.0,2005.0,0,0
+EGY,"Egypt, Arab Republic of",Arab Republic of Egypt,Middle East & North Africa,Lower middle income,IBRD,Egyptian pound,2021,Actual,2017.0,2018.0,2010.0,1,1
+SLV,El Salvador,Republic of El Salvador,Latin America & Caribbean,Upper middle income,IBRD,U.S. dollar,2012,Actual,2007.0,2018.0,2005.0,1,0
+GNQ,Equatorial Guinea,Republic of Equatorial Guinea,Sub-Saharan Africa,Upper middle income,IBRD,Central African CFA franc,2006,Actual,2015.0,,,0,0
+ERI,Eritrea,State of Eritrea,Sub-Saharan Africa,Low income,IDA,Eritrean nakfa,2011,Estimate,,2003.0,2004.0,0,1
+SWZ,Eswatini,Kingdom of Eswatini,Sub-Saharan Africa,Lower middle income,Blend,Swazi lilangeni,2019,Actual,2017.0,2017.0,2000.0,0,1
+ETH,Ethiopia,Federal Democratic Republic of Ethiopia,Sub-Saharan Africa,Low income,IDA,Ethiopian birr,2015,Actual,2007.0,2016.0,2016.0,0,1
+FJI,Fiji,Republic of Fiji,East Asia & Pacific,Upper middle income,Blend,Fijian dollar,2014,Actual,2017.0,2018.0,2005.0,1,0
+GAB,Gabon,Gabonese Republic,Sub-Saharan Africa,Upper middle income,IBRD,Central African CFA franc,2001,Actual,2013.0,2009.0,2005.0,0,0
+GMB,"Gambia, The",Republic of The Gambia,Sub-Saharan Africa,Low income,IDA,Gambian dalasi,2013,Actual,2013.0,2018.0,2000.0,0,0
+GEO,Georgia,Georgia,Europe & Central Asia,Upper middle income,IBRD,Georgian lari,2012,Actual,2014.0,2018.0,2008.0,1,1
+GHA,Ghana,Republic of Ghana,Sub-Saharan Africa,Lower middle income,IDA,New Ghanaian cedi,2013,Actual,2021.0,2018.0,2000.0,0,1
+GRD,Grenada,Grenada,Latin America & Caribbean,Upper middle income,Blend,East Caribbean dollar,2006,Actual,2021.0,2009.0,2014.0,1,0
+GTM,Guatemala,Republic of Guatemala,Latin America & Caribbean,Upper middle income,IBRD,Guatemalan quetzal,2012,Actual,2018.0,2017.0,2006.0,1,1
+GIN,Guinea,Republic of Guinea,Sub-Saharan Africa,Lower middle income,IDA,Guinean franc,2012,Actual,2014.0,2015.0,2001.0,0,0
+GNB,Guinea-Bissau,Republic of Guinea-Bissau,Sub-Saharan Africa,Low income,IDA,West African CFA franc,2015,Actual,2009.0,2005.0,2000.0,0,0
+GUY,Guyana,Co-operative Republic of Guyana,Latin America & Caribbean,High income,IDA,Guyana dollar,2012,Actual,2022.0,2018.0,2010.0,0,0
+HTI,Haiti,Republic of Haiti,Latin America & Caribbean,Lower middle income,IDA,Haitian gourde,2011,Actual,2003.0,,2009.0,0,1
+HND,Honduras,Republic of Honduras,Latin America & Caribbean,Lower middle income,IDA,Honduran lempira,2000,Actual,2013.0,2017.0,2003.0,0,1
+IND,India,Republic of India,South Asia,Lower middle income,IBRD,Indian rupee,2011,Actual,2011.0,2018.0,2010.0,0,1
+IDN,Indonesia,Republic of Indonesia,East Asia & Pacific,Upper middle income,IBRD,Indonesian rupiah,2010,Actual,2020.0,2018.0,2000.0,0,1
+IRN,"Iran, Islamic Republic of",Islamic Republic of Iran,Middle East & North Africa,Upper middle income,IBRD,Iranian rial,2016,Estimate,2016.0,2017.0,2004.0,1,1
+IRQ,Iraq,Republic of Iraq,Middle East & North Africa,Upper middle income,IBRD,Iraqi dinar,2007,Actual,1997.0,2014.0,,0,0
+JAM,Jamaica,Jamaica,Latin America & Caribbean,Upper middle income,IBRD,Jamaican dollar,2007,Actual,2022.0,2017.0,2007.0,0,0
+JOR,Jordan,Hashemite Kingdom of Jordan,Middle East & North Africa,Lower middle income,IBRD,Jordanian dinar,2016,Actual,2015.0,2018.0,2005.0,0,0
+KAZ,Kazakhstan,Republic of Kazakhstan,Europe & Central Asia,Upper middle income,IBRD,Kazakh tenge,2012,Actual,2021.0,2018.0,2010.0,0,0
+KEN,Kenya,Republic of Kenya,Sub-Saharan Africa,Lower middle income,Blend,Kenyan shilling,2016,Actual,2019.0,2018.0,2010.0,0,1
+XKX,Kosovo,Republic of Kosovo,Europe & Central Asia,Upper middle income,IDA,Euro,2012,Actual,2011.0,,,0,0
+KGZ,Kyrgyz Republic,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA,Kyrgyz som,2012,Actual,2022.0,2018.0,2006.0,1,0
+LAO,Lao PDR,Lao People's Democratic Republic,East Asia & Pacific,Lower middle income,IDA,Lao kip,2012,Actual,2015.0,2016.0,2005.0,0,1
+LBN,Lebanon,Lebanese Republic,Middle East & North Africa,Lower middle income,IBRD,Lebanese pound,2010,Estimate,1943.0,2018.0,2005.0,1,1
+LSO,Lesotho,Kingdom of Lesotho,Sub-Saharan Africa,Lower middle income,IDA,Lesotho loti,2012,Actual,2016.0,2017.0,2000.0,0,1
+LBR,Liberia,Republic of Liberia,Sub-Saharan Africa,Low income,IDA,Liberian dollar,2016,Actual,2022.0,,2000.0,0,1
+MDG,Madagascar,Republic of Madagascar,Sub-Saharan Africa,Low income,IDA,Malagasy ariary,2007,Actual,2018.0,2018.0,2000.0,0,0
+MWI,Malawi,Republic of Malawi,Sub-Saharan Africa,Low income,IDA,Malawi kwacha,2017,Actual,2018.0,2017.0,2005.0,0,0
+MDV,Maldives,Republic of Maldives,South Asia,Upper middle income,IDA,Maldivian rufiyaa,2019,Actual,2022.0,2018.0,2008.0,1,0
+MLI,Mali,Republic of Mali,Sub-Saharan Africa,Low income,IDA,West African CFA franc,2012,Actual,2022.0,2017.0,2006.0,0,0
+MRT,Mauritania,Islamic Republic of Mauritania,Sub-Saharan Africa,Lower middle income,IDA,Mauritanian ouguiya,2012,Actual,2013.0,2017.0,2005.0,0,1
+MUS,Mauritius,Republic of Mauritius,Sub-Saharan Africa,Upper middle income,IBRD,Mauritian rupee,2012,Actual,2022.0,2018.0,2003.0,1,0
+MEX,Mexico,United Mexican States,Latin America & Caribbean,Upper middle income,IBRD,Mexican peso,2018,Actual,2020.0,2018.0,2011.0,1,0
+MDA,Moldova,Republic of Moldova,Europe & Central Asia,Upper middle income,IBRD,Moldovan leu,2012,Actual,2014.0,2018.0,2007.0,1,1
+MNG,Mongolia,Mongolia,East Asia & Pacific,Upper middle income,IBRD,Mongolian tugrik,2015,Actual,2020.0,2018.0,2009.0,1,1
+MNE,Montenegro,Montenegro,Europe & Central Asia,Upper middle income,IBRD,Euro,2012,Actual,2023.0,2018.0,2010.0,1,1
+MAR,Morocco,Kingdom of Morocco,Middle East & North Africa,Lower middle income,IBRD,Moroccan dirham,2012,Actual,2014.0,2018.0,2010.0,0,0
+MOZ,Mozambique,Republic of Mozambique,Sub-Saharan Africa,Low income,IDA,New Mozambican metical,2019,Actual,2017.0,2018.0,2001.0,0,0
+MMR,Myanmar,Republic of the Union of Myanmar,East Asia & Pacific,Lower middle income,IDA,Myanmar kyat,2015,Actual,2014.0,2018.0,2000.0,0,1
+NPL,Nepal,Nepal,South Asia,Lower middle income,IDA,Nepalese rupee,2010,Actual,2021.0,2017.0,2006.0,0,1
+NIC,Nicaragua,Republic of Nicaragua,Latin America & Caribbean,Lower middle income,IDA,Nicaraguan gold cordoba,2012,Actual,2005.0,2018.0,2011.0,0,1
+NER,Niger,Republic of Niger,Sub-Saharan Africa,Low income,IDA,West African CFA franc,2015,Actual,2012.0,2016.0,2005.0,0,0
+NGA,Nigeria,Federal Republic of Nigeria,Sub-Saharan Africa,Lower middle income,Blend,Nigerian naira,2010,Actual,2006.0,2018.0,2005.0,0,1
+MKD,North Macedonia,Republic of North Macedonia,Europe & Central Asia,Upper middle income,IBRD,Macedonian denar,2012,Actual,2021.0,2018.0,2007.0,1,0
+PAK,Pakistan,Islamic Republic of Pakistan,Middle East & North Africa,Lower middle income,Blend,Pakistani rupee,2015,Actual,2017.0,2018.0,2008.0,0,1
+PNG,Papua New Guinea,The Independent State of Papua New Guinea,East Asia & Pacific,Lower middle income,Blend,Papua New Guinea kina,2013,Actual,2011.0,2012.0,2005.0,0,0
+PRY,Paraguay,Republic of Paraguay,Latin America & Caribbean,Upper middle income,IBRD,Paraguayan guarani,2014,Actual,2022.0,2018.0,2012.0,0,1
+PER,Peru,Republic of Peru,Latin America & Caribbean,Upper middle income,IBRD,Peruvian new sol,2007,Actual,2017.0,2018.0,2008.0,0,1
+PHL,Philippines,Republic of the Philippines,East Asia & Pacific,Lower middle income,IBRD,Philippine peso,2018,Actual,2015.0,2018.0,2009.0,1,0
+RWA,Rwanda,Republic of Rwanda,Sub-Saharan Africa,Low income,IDA,Rwandan franc,2017,Actual,2022.0,2016.0,2000.0,0,0
+WSM,Samoa,Independent State of Samoa,East Asia & Pacific,Upper middle income,IDA,Samoan tala,2013,Actual,2016.0,2018.0,,0,1
+STP,São Tomé and Principe,Democratic Republic of São Tomé and Principe,Sub-Saharan Africa,Lower middle income,IDA,São Tomé and Principe dobra,2012,Actual,2012.0,2018.0,1993.0,1,1
+SEN,Senegal,Republic of Senegal,Sub-Saharan Africa,Lower middle income,IDA,West African CFA franc,2012,Actual,2023.0,2018.0,2002.0,0,0
+SRB,Serbia,Republic of Serbia,Europe & Central Asia,Upper middle income,IBRD,New Serbian dinar,2012,Actual,2011.0,2018.0,2013.0,1,1
+SLE,Sierra Leone,Republic of Sierra Leone,Sub-Saharan Africa,Low income,IDA,Sierra Leonean leone,2018,Actual,2015.0,2017.0,2005.0,0,0
+SLB,Solomon Islands,Solomon Islands,East Asia & Pacific,Lower middle income,IDA,Solomon Islands dollar,2012,Actual,2019.0,2018.0,,0,0
+SOM,"Somalia, Fed. Rep.",Federal Republic of Somalia,Sub-Saharan Africa,Low income,IDA,Somali shilling,2022,Actual,,,2003.0,0,1
+ZAF,South Africa,Republic of South Africa,Sub-Saharan Africa,Upper middle income,IBRD,South African rand,2015,Actual,2022.0,2018.0,2013.0,0,1
+LKA,Sri Lanka,Democratic Socialist Republic of Sri Lanka,South Asia,Lower middle income,IDA,Sri Lankan rupee,2015,Actual,2012.0,2017.0,2005.0,1,0
+LCA,St. Lucia,St. Lucia,Latin America & Caribbean,Upper middle income,Blend,East Caribbean dollar,2018,Actual,2022.0,2017.0,2007.0,1,0
+VCT,St. Vincent and the Grenadines,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,Blend,East Caribbean dollar,2018,Actual,2023.0,2018.0,2013.0,1,0
+SDN,Sudan,Republic of the Sudan,Sub-Saharan Africa,Low income,IDA,Sudanese pound,1996,Estimate,2008.0,2017.0,2011.0,0,1
+SUR,Suriname,Republic of Suriname,Latin America & Caribbean,Upper middle income,Blend,Suriname dollar,2015,Actual,2012.0,2018.0,,1,1
+SYR,Syrian Arab Republic,Syrian Arab Republic,Middle East & North Africa,Low income,IDA,Syrian pound,2000,Estimate,2004.0,2010.0,2005.0,0,1
+TJK,Tajikistan,Republic of Tajikistan,Europe & Central Asia,Lower middle income,IDA,Tajik somoni,2012,Actual,2020.0,,2006.0,0,0
+TZA,Tanzania,United Republic of Tanzania,Sub-Saharan Africa,Lower middle income,IDA,Tanzanian shilling,2015,Actual,2022.0,2018.0,2002.0,0,0
+THA,Thailand,Kingdom of Thailand,East Asia & Pacific,Upper middle income,IBRD,Thai baht,2012,Actual,2010.0,2018.0,2007.0,0,1
+TLS,Timor-Leste,Democratic Republic of Timor-Leste,East Asia & Pacific,Lower middle income,Blend,U.S. dollar,2015,Actual,2015.0,2017.0,2004.0,0,0
+TGO,Togo,Republic of Togo,Sub-Saharan Africa,Low income,IDA,West African CFA franc,2016,Actual,2022.0,2017.0,2002.0,0,0
+TON,Tonga,Kingdom of Tonga,East Asia & Pacific,Upper middle income,IDA,Tongan pa'anga,2016,Actual,2016.0,2014.0,,0,1
+TUN,Tunisia,Republic of Tunisia,Middle East & North Africa,Lower middle income,IBRD,Tunisian dinar,2015,Actual,2014.0,2017.0,2011.0,0,0
+TUR,Türkiye,Republic of Türkiye,Europe & Central Asia,Upper middle income,IBRD,New Turkish lira,2012,Actual,2021.0,2018.0,2008.0,1,0
+TKM,Turkmenistan,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD,New Turkmen manat,2012,Actual,2022.0,2000.0,2004.0,0,0
+UGA,Uganda,Republic of Uganda,Sub-Saharan Africa,Low income,IDA,Ugandan shilling,2017,Actual,2014.0,2018.0,2008.0,0,1
+UKR,Ukraine,Ukraine,Europe & Central Asia,Upper middle income,IBRD,Ukrainian hryvnia,2012,Actual,2001.0,2018.0,2010.0,1,0
+UZB,Uzbekistan,Republic of Uzbekistan,Europe & Central Asia,Lower middle income,Blend,Uzbek som,2012,Actual,1989.0,2018.0,2005.0,1,0
+VUT,Vanuatu,Republic of Vanuatu,East Asia & Pacific,Lower middle income,IDA,Vanuatu vatu,2006,Actual,2016.0,2011.0,,0,0
+VNM,Viet Nam,Socialist Republic of Viet Nam,East Asia & Pacific,Lower middle income,IBRD,Vietnamese dong,2010,Actual,2019.0,2017.0,2005.0,1,0
+YEM,"Yemen, Republic of",Republic of Yemen,Middle East & North Africa,Low income,IDA,Yemeni rial,1990,Preliminary,2004.0,2015.0,2005.0,0,1
+ZMB,Zambia,Republic of Zambia,Sub-Saharan Africa,Lower middle income,IDA,New Zambian kwacha,2010,Actual,2022.0,2018.0,2002.0,0,1
+ZWE,Zimbabwe,Republic of Zimbabwe,Sub-Saharan Africa,Lower middle income,Blend,Zimbabwean Zimbabwe Gold,2019,Actual,2022.0,2018.0,2007.0,0,1
